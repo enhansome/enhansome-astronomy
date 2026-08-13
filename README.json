@@ -1,0 +1,404 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "English",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-01T16:12:55Z",
+            "owner": "mbiesiad",
+            "repo": "awesome-astronomy",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polish",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-01T16:12:55Z",
+            "owner": "mbiesiad",
+            "repo": "awesome-astronomy",
+            "stars": 97
+          }
+        }
+      ],
+      "title": "Translations"
+    },
+    {
+      "description": "Astronomy-related societies, organisations etc on the world.",
+      "items": [],
+      "title": "Society"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Europe"
+    },
+    {
+      "description": "Citizen science (via Wikipedia) is scientific research conducted, in whole or in part, by amateur (or nonprofessional) scientists.",
+      "items": [],
+      "title": "Citizen science"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Astropy",
+          "description": "Repository for the Astropy core package.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:13:48Z",
+            "owner": "astropy",
+            "repo": "astropy",
+            "stars": 5267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Celestia",
+          "description": "Real-time 3D visualization of space.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T19:26:07Z",
+            "owner": "CelestiaProject",
+            "repo": "Celestia",
+            "stars": 2338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Allsky Camera",
+          "description": "A Raspberry Pi operated Wireless Allsky Camera.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T21:35:40Z",
+            "owner": "AllskyTeam",
+            "repo": "allsky",
+            "stars": 1589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mapping The Solar System",
+          "description": "Code, data, and instructions for mapping orbits of asteroids in the solar system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-11-12T22:23:46Z",
+            "owner": "eleanorlutz",
+            "repo": "asteroids_atlas_of_space",
+            "stars": 1305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSpace",
+          "description": "An open source astrovisualization project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T15:02:04Z",
+            "owner": "OpenSpace",
+            "repo": "OpenSpace",
+            "stars": 1226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astronomy Picture of the Day (APOD) microservice",
+          "description": "Astronomy Picture of the Day API service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T12:01:28Z",
+            "owner": "nasa",
+            "repo": "apod-api",
+            "stars": 1074
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SunPy",
+          "description": "Python for Solar Physics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:09:02Z",
+            "owner": "sunpy",
+            "repo": "sunpy",
+            "stars": 1032
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astroquery",
+          "description": "Functions and classes to access online data resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T00:24:38Z",
+            "owner": "astropy",
+            "repo": "astroquery",
+            "stars": 786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astronomy for Meteor",
+          "description": "Model layer for Meteor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-24T08:22:39Z",
+            "owner": "jagi",
+            "repo": "meteor-astronomy",
+            "stars": 604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lightkurve",
+          "description": "A friendly package for Kepler & TESS time series analysis in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-08T15:54:06Z",
+            "owner": "lightkurve",
+            "repo": "lightkurve",
+            "stars": 521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Taotie",
+          "description": "A curated collection of resources for astrophysical research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-27T09:33:09Z",
+            "owner": "dr-guangtou",
+            "repo": "taotie",
+            "stars": 467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebbCompare",
+          "description": "Comparison James Webb Space Telescope images with older images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-01T22:17:38Z",
+            "owner": "JohnEdChristensen",
+            "repo": "WebbCompare",
+            "stars": 434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Solar System",
+          "description": "The Solar System: Modeled to scale with Three.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T17:32:03Z",
+            "owner": "sanderblue",
+            "repo": "solar-system-threejs",
+            "stars": 409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Astroberry Server",
+          "description": "A ready to use system for Raspberry Pi for controlling all your astronomy equipment.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-02-11T12:01:25Z",
+            "owner": "rkaczorek",
+            "repo": "astroberry-server",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "astro-rust",
+          "description": "Astronomical algorithms in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2019-10-20T01:17:04Z",
+            "owner": "saurvs",
+            "repo": "astro-rust",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "galpy",
+          "description": "Galactic Dynamics in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:24:26Z",
+            "owner": "jobovy",
+            "repo": "galpy",
+            "stars": 281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "INDIGO",
+          "description": "A system of standards and frameworks for multiplatform and distributed astronomy software development designed to scale with your needs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T22:33:00Z",
+            "owner": "indigo-astronomy",
+            "repo": "indigo",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tensorflow Elliptical vs Sprial Galaxy Image Classifier",
+          "description": "Classify whether an image is of a Spiral or an Elliptical Galaxy using Transfer Learning (Tensorflow).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-10-25T19:26:30Z",
+            "owner": "rhnvrm",
+            "repo": "galaxy-image-classifier-tensorflow",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "astronomia",
+          "description": "An astronomical library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-30T08:12:39Z",
+            "owner": "commenthol",
+            "repo": "astronomia",
+            "stars": 177
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "find_orb",
+          "description": "Orbit determination from observation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-23T19:14:00Z",
+            "owner": "Bill-Gray",
+            "repo": "find_orb",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyTransit",
+          "description": "Fast and easy exoplanet transit light curve modelling.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-06T20:56:30Z",
+            "owner": "hpparvi",
+            "repo": "PyTransit",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gaia_tools",
+          "description": "Tools for working with the ESA Gaia data and related data sets.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-01-08T16:26:29Z",
+            "owner": "jobovy",
+            "repo": "gaia_tools",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gaia Sky",
+          "description": "Mirror of Gaia Sky repository hosted on GitLab.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T21:06:40Z",
+            "owner": "langurmonkey",
+            "repo": "gaiasky",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Repositories"
+    },
+    {
+      "description": "Astro groups on Facebook, Yahoo or groups.io etc.",
+      "items": [],
+      "title": "Social media & groups"
+    },
+    {
+      "description": "Warmly welcome! Kindly go through Contribution Guidelines first.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "See Code of Conduct.",
+      "items": [],
+      "title": "Code of Conduct"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:24:38.658Z",
+    "original_repository": "mbiesiad/awesome-astronomy",
+    "original_repository_sha": "84b7752187aa02f794a078dcb36175befc033369",
+    "enhanced_repository": "enhansome/enhansome-astronomy",
+    "enhanced_repository_description": null,
+    "title": "Awesome Astronomy with stars"
+  }
+}
