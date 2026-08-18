@@ -63,7 +63,7 @@
             "last_commit": "2026-08-16T14:43:16Z",
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5275
+            "stars": 5277
           }
         },
         {
@@ -77,7 +77,7 @@
             "last_commit": "2026-08-15T21:29:04Z",
             "owner": "CelestiaProject",
             "repo": "Celestia",
-            "stars": 2340
+            "stars": 2341
           }
         },
         {
@@ -91,7 +91,7 @@
             "last_commit": "2026-08-09T21:35:40Z",
             "owner": "AllskyTeam",
             "repo": "allsky",
-            "stars": 1590
+            "stars": 1592
           }
         },
         {
@@ -116,7 +116,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T07:24:06Z",
+            "last_commit": "2026-08-17T12:32:02Z",
             "owner": "OpenSpace",
             "repo": "OpenSpace",
             "stars": 1231
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-13T09:00:28Z",
             "owner": "sunpy",
             "repo": "sunpy",
-            "stars": 1032
+            "stars": 1033
           }
         },
         {
@@ -189,7 +189,7 @@
             "last_commit": "2026-07-08T15:54:06Z",
             "owner": "lightkurve",
             "repo": "lightkurve",
-            "stars": 524
+            "stars": 525
           }
         },
         {
@@ -270,7 +270,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T00:32:33Z",
+            "last_commit": "2026-08-17T23:16:55Z",
             "owner": "jobovy",
             "repo": "galpy",
             "stars": 283
@@ -284,7 +284,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-16T21:23:46Z",
+            "last_commit": "2026-08-17T07:02:10Z",
             "owner": "indigo-astronomy",
             "repo": "indigo",
             "stars": 197
@@ -394,7 +394,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:10:01.189Z",
+    "last_updated": "2026-08-18T02:06:50.525Z",
     "original_repository": "mbiesiad/awesome-astronomy",
     "original_repository_sha": "84b7752187aa02f794a078dcb36175befc033369",
     "enhanced_repository": "enhansome/enhansome-astronomy",
