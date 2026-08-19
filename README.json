@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255427519,
             "language": null,
             "last_commit": "2026-06-01T16:12:55Z",
             "owner": "mbiesiad",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255427519,
             "language": null,
             "last_commit": "2026-06-01T16:12:55Z",
             "owner": "mbiesiad",
@@ -35,22 +37,7 @@
       "title": "Translations"
     },
     {
-      "description": "Astronomy-related societies, organisations etc on the world.",
-      "items": [],
-      "title": "Society"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Europe"
-    },
-    {
-      "description": "Citizen science (via Wikipedia) is scientific research conducted, in whole or in part, by amateur (or nonprofessional) scientists.",
-      "items": [],
-      "title": "Citizen science"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -59,11 +46,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2081289,
             "language": "Python",
             "last_commit": "2026-08-18T20:32:31Z",
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5276
+            "stars": 5277
           }
         },
         {
@@ -73,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72038007,
             "language": "C++",
             "last_commit": "2026-08-18T06:24:05Z",
             "owner": "CelestiaProject",
             "repo": "Celestia",
-            "stars": 2344
+            "stars": 2345
           }
         },
         {
@@ -87,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71661619,
             "language": "JavaScript",
             "last_commit": "2026-08-09T21:35:40Z",
             "owner": "AllskyTeam",
@@ -101,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 190697984,
             "language": "Jupyter Notebook",
             "last_commit": "2022-11-12T22:23:46Z",
             "owner": "eleanorlutz",
@@ -115,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38380543,
             "language": "C++",
             "last_commit": "2026-08-18T22:24:55Z",
             "owner": "OpenSpace",
@@ -129,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47218786,
             "language": "Python",
             "last_commit": "2026-07-21T12:01:28Z",
             "owner": "nasa",
@@ -143,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2165383,
             "language": "Python",
             "last_commit": "2026-08-18T13:44:22Z",
             "owner": "sunpy",
@@ -157,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4787269,
             "language": "Python",
             "last_commit": "2026-08-13T18:46:38Z",
             "owner": "astropy",
@@ -171,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30525892,
             "language": "JavaScript",
             "last_commit": "2023-08-24T08:22:39Z",
             "owner": "jagi",
@@ -185,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118387904,
             "language": "Python",
             "last_commit": "2026-07-08T15:54:06Z",
             "owner": "lightkurve",
@@ -199,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161097018,
             "language": null,
             "last_commit": "2024-07-27T09:33:09Z",
             "owner": "dr-guangtou",
@@ -213,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 512946468,
             "language": "JavaScript",
             "last_commit": "2024-03-01T22:17:38Z",
             "owner": "JohnEdChristensen",
@@ -227,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15836284,
             "language": "JavaScript",
             "last_commit": "2022-12-07T17:32:03Z",
             "owner": "sanderblue",
@@ -241,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 90406942,
             "language": null,
             "last_commit": "2026-02-11T12:01:25Z",
             "owner": "rkaczorek",
@@ -255,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45698146,
             "language": "Rust",
             "last_commit": "2019-10-20T01:17:04Z",
             "owner": "saurvs",
@@ -269,8 +271,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2375854,
             "language": "Python",
-            "last_commit": "2026-08-19T01:21:23Z",
+            "last_commit": "2026-08-19T11:41:48Z",
             "owner": "jobovy",
             "repo": "galpy",
             "stars": 283
@@ -283,8 +286,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69099717,
             "language": "C",
-            "last_commit": "2026-08-18T21:00:57Z",
+            "last_commit": "2026-08-19T09:45:56Z",
             "owner": "indigo-astronomy",
             "repo": "indigo",
             "stars": 197
@@ -297,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 68384362,
             "language": "Python",
             "last_commit": "2017-10-25T19:26:30Z",
             "owner": "rhnvrm",
@@ -311,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61392080,
             "language": "JavaScript",
             "last_commit": "2025-08-30T08:12:39Z",
             "owner": "commenthol",
@@ -325,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62252859,
             "language": "C++",
             "last_commit": "2026-08-16T01:23:04Z",
             "owner": "Bill-Gray",
@@ -339,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6838892,
             "language": "Jupyter Notebook",
             "last_commit": "2026-08-18T14:56:26Z",
             "owner": "hpparvi",
@@ -353,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 68023376,
             "language": "Python",
             "last_commit": "2025-01-08T16:26:29Z",
             "owner": "jobovy",
@@ -367,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 880187472,
             "language": "Java",
             "last_commit": "2026-08-13T17:42:23Z",
             "owner": "langurmonkey",
@@ -376,26 +386,12 @@
         }
       ],
       "title": "Repositories"
-    },
-    {
-      "description": "Astro groups on Facebook, Yahoo or groups.io etc.",
-      "items": [],
-      "title": "Social media & groups"
-    },
-    {
-      "description": "Warmly welcome! Kindly go through Contribution Guidelines first.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "See Code of Conduct.",
-      "items": [],
-      "title": "Code of Conduct"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:08:20.582Z",
+    "last_updated": "2026-08-19T12:15:28.525Z",
     "original_repository": "mbiesiad/awesome-astronomy",
+    "original_repository_id": 255427519,
     "original_repository_sha": "84b7752187aa02f794a078dcb36175befc033369",
     "enhanced_repository": "enhansome/enhansome-astronomy",
     "enhanced_repository_description": null,
