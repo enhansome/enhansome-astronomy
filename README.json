@@ -48,10 +48,10 @@
             "archived": false,
             "id": 2081289,
             "language": "Python",
-            "last_commit": "2026-08-18T20:32:31Z",
+            "last_commit": "2026-08-23T13:30:15Z",
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5282
+            "stars": 5284
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-22T20:01:38Z",
             "owner": "CelestiaProject",
             "repo": "Celestia",
-            "stars": 2346
+            "stars": 2348
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-20T14:51:14Z",
             "owner": "OpenSpace",
             "repo": "OpenSpace",
-            "stars": 1231
+            "stars": 1232
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-07-08T15:54:06Z",
             "owner": "lightkurve",
             "repo": "lightkurve",
-            "stars": 526
+            "stars": 527
           }
         },
         {
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 2375854,
             "language": "Python",
-            "last_commit": "2026-08-23T01:18:05Z",
+            "last_commit": "2026-08-24T01:42:36Z",
             "owner": "jobovy",
             "repo": "galpy",
             "stars": 283
@@ -288,7 +288,7 @@
             "archived": false,
             "id": 69099717,
             "language": "C",
-            "last_commit": "2026-08-22T21:46:20Z",
+            "last_commit": "2026-08-23T22:55:55Z",
             "owner": "indigo-astronomy",
             "repo": "indigo",
             "stars": 199
@@ -389,7 +389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:14:35.578Z",
+    "last_updated": "2026-08-24T02:13:07.250Z",
     "original_repository": "mbiesiad/awesome-astronomy",
     "original_repository_id": 255427519,
     "original_repository_sha": "84b7752187aa02f794a078dcb36175befc033369",
