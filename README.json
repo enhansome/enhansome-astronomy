@@ -48,10 +48,10 @@
             "archived": false,
             "id": 2081289,
             "language": "Python",
-            "last_commit": "2026-08-24T13:53:24Z",
+            "last_commit": "2026-08-24T16:14:57Z",
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5284
+            "stars": 5285
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-07-21T12:01:28Z",
             "owner": "nasa",
             "repo": "apod-api",
-            "stars": 1079
+            "stars": 1080
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-07-08T15:54:06Z",
             "owner": "lightkurve",
             "repo": "lightkurve",
-            "stars": 527
+            "stars": 528
           }
         },
         {
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 2375854,
             "language": "Python",
-            "last_commit": "2026-08-24T12:28:11Z",
+            "last_commit": "2026-08-24T22:32:45Z",
             "owner": "jobovy",
             "repo": "galpy",
             "stars": 283
@@ -288,7 +288,7 @@
             "archived": false,
             "id": 69099717,
             "language": "C",
-            "last_commit": "2026-08-24T13:16:26Z",
+            "last_commit": "2026-08-24T23:40:54Z",
             "owner": "indigo-astronomy",
             "repo": "indigo",
             "stars": 200
@@ -333,7 +333,7 @@
             "archived": false,
             "id": 62252859,
             "language": "C++",
-            "last_commit": "2026-08-16T01:23:04Z",
+            "last_commit": "2026-08-25T01:43:23Z",
             "owner": "Bill-Gray",
             "repo": "find_orb",
             "stars": 120
@@ -348,7 +348,7 @@
             "archived": false,
             "id": 6838892,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-18T14:56:26Z",
+            "last_commit": "2026-08-24T16:07:57Z",
             "owner": "hpparvi",
             "repo": "PyTransit",
             "stars": 110
@@ -389,7 +389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:42:52.011Z",
+    "last_updated": "2026-08-25T02:09:06.740Z",
     "original_repository": "mbiesiad/awesome-astronomy",
     "original_repository_id": 255427519,
     "original_repository_sha": "84b7752187aa02f794a078dcb36175befc033369",
