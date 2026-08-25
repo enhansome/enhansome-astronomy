@@ -51,7 +51,7 @@
             "last_commit": "2026-08-24T16:14:57Z",
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5285
+            "stars": 5286
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-09T21:35:40Z",
             "owner": "AllskyTeam",
             "repo": "allsky",
-            "stars": 1595
+            "stars": 1596
           }
         },
         {
@@ -273,10 +273,10 @@
             "archived": false,
             "id": 2375854,
             "language": "Python",
-            "last_commit": "2026-08-24T22:32:45Z",
+            "last_commit": "2026-08-25T03:43:00Z",
             "owner": "jobovy",
             "repo": "galpy",
-            "stars": 283
+            "stars": 284
           }
         },
         {
@@ -288,7 +288,7 @@
             "archived": false,
             "id": 69099717,
             "language": "C",
-            "last_commit": "2026-08-24T23:40:54Z",
+            "last_commit": "2026-08-25T06:24:53Z",
             "owner": "indigo-astronomy",
             "repo": "indigo",
             "stars": 200
@@ -389,7 +389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T02:09:06.740Z",
+    "last_updated": "2026-08-25T06:34:34.744Z",
     "original_repository": "mbiesiad/awesome-astronomy",
     "original_repository_id": 255427519,
     "original_repository_sha": "84b7752187aa02f794a078dcb36175befc033369",

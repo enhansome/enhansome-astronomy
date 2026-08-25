@@ -317,9 +317,9 @@ Selected Space & Physics projects:
 
 ## Repositories
 
-* [Astropy](https://github.com/astropy/astropy) ⭐ 5,285 | 🐛 1,428 | 🌐 Python | 📅 2026-08-24 - Repository for the Astropy core package.
+* [Astropy](https://github.com/astropy/astropy) ⭐ 5,286 | 🐛 1,427 | 🌐 Python | 📅 2026-08-24 - Repository for the Astropy core package.
 * [Celestia](https://github.com/CelestiaProject/Celestia) ⭐ 2,349 | 🐛 146 | 🌐 C++ | 📅 2026-08-22 - Real-time 3D visualization of space.
-* [Allsky Camera](https://github.com/thomasjacquin/allsky) ⭐ 1,595 | 🐛 55 | 🌐 JavaScript | 📅 2026-08-09 - A Raspberry Pi operated Wireless Allsky Camera.
+* [Allsky Camera](https://github.com/thomasjacquin/allsky) ⭐ 1,596 | 🐛 55 | 🌐 JavaScript | 📅 2026-08-09 - A Raspberry Pi operated Wireless Allsky Camera.
 * [Mapping The Solar System](https://github.com/eleanorlutz/asteroids_atlas_of_space) ⭐ 1,307 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-11-12 - Code, data, and instructions for mapping orbits of asteroids in the solar system.
 * [OpenSpace](https://github.com/OpenSpace/OpenSpace) ⭐ 1,233 | 🐛 688 | 🌐 C++ | 📅 2026-08-24 - An open source astrovisualization project.
 * [Astronomy Picture of the Day (APOD) microservice](https://github.com/nasa/apod-api) ⭐ 1,080 | 🐛 9 | 🌐 Python | 📅 2026-07-21 - Astronomy Picture of the Day API service.
@@ -332,8 +332,8 @@ Selected Space & Physics projects:
 * [The Solar System](https://github.com/sanderblue/solar-system-threejs) ⭐ 410 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-07 - The Solar System: Modeled to scale with Three.js.
 * [Astroberry Server](https://github.com/rkaczorek/astroberry-server) ⚠️ Archived - A ready to use system for Raspberry Pi for controlling all your astronomy equipment.
 * [astro-rust](https://github.com/saurvs/astro-rust) ⭐ 317 | 🐛 11 | 🌐 Rust | 📅 2019-10-20 - Astronomical algorithms in Rust.
-* [galpy](https://github.com/jobovy/galpy) ⭐ 283 | 🐛 11 | 🌐 Python | 📅 2026-08-24 - Galactic Dynamics in Python.
-* [INDIGO](https://github.com/indigo-astronomy/indigo) ⭐ 200 | 🐛 78 | 🌐 C | 📅 2026-08-24 - A system of standards and frameworks for multiplatform and distributed astronomy software development designed to scale with your needs.
+* [galpy](https://github.com/jobovy/galpy) ⭐ 284 | 🐛 11 | 🌐 Python | 📅 2026-08-25 - Galactic Dynamics in Python.
+* [INDIGO](https://github.com/indigo-astronomy/indigo) ⭐ 200 | 🐛 78 | 🌐 C | 📅 2026-08-25 - A system of standards and frameworks for multiplatform and distributed astronomy software development designed to scale with your needs.
 * [Tensorflow Elliptical vs Sprial Galaxy Image Classifier](https://github.com/rhnvrm/galaxy-image-classifier-tensorflow) ⚠️ Archived - Classify whether an image is of a Spiral or an Elliptical Galaxy using Transfer Learning (Tensorflow).
 * [astronomia](https://github.com/commenthol/astronomia) ⭐ 179 | 🐛 12 | 🌐 JavaScript | 📅 2025-08-30 - An astronomical library.
 * [find\_orb](https://github.com/Bill-Gray/find_orb) ⭐ 120 | 🐛 26 | 🌐 C++ | 📅 2026-08-25 - Orbit determination from observation.
