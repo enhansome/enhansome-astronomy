@@ -78,10 +78,10 @@
             "archived": false,
             "id": 71661619,
             "language": "JavaScript",
-            "last_commit": "2026-08-09T21:35:40Z",
+            "last_commit": "2026-08-25T21:44:17Z",
             "owner": "AllskyTeam",
             "repo": "allsky",
-            "stars": 1596
+            "stars": 1597
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-24T13:54:26Z",
             "owner": "OpenSpace",
             "repo": "OpenSpace",
-            "stars": 1233
+            "stars": 1232
           }
         },
         {
@@ -153,7 +153,7 @@
             "archived": false,
             "id": 4787269,
             "language": "Python",
-            "last_commit": "2026-08-13T18:46:38Z",
+            "last_commit": "2026-08-25T16:13:39Z",
             "owner": "astropy",
             "repo": "astroquery",
             "stars": 789
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 118387904,
             "language": "Python",
-            "last_commit": "2026-07-08T15:54:06Z",
+            "last_commit": "2026-08-25T19:58:28Z",
             "owner": "lightkurve",
             "repo": "lightkurve",
             "stars": 528
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 2375854,
             "language": "Python",
-            "last_commit": "2026-08-25T03:43:00Z",
+            "last_commit": "2026-08-26T01:58:55Z",
             "owner": "jobovy",
             "repo": "galpy",
             "stars": 284
@@ -288,7 +288,7 @@
             "archived": false,
             "id": 69099717,
             "language": "C",
-            "last_commit": "2026-08-25T06:24:53Z",
+            "last_commit": "2026-08-25T17:38:45Z",
             "owner": "indigo-astronomy",
             "repo": "indigo",
             "stars": 200
@@ -389,7 +389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:34:34.744Z",
+    "last_updated": "2026-08-26T02:14:49.957Z",
     "original_repository": "mbiesiad/awesome-astronomy",
     "original_repository_id": 255427519,
     "original_repository_sha": "84b7752187aa02f794a078dcb36175befc033369",
