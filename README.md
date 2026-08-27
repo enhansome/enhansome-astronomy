@@ -317,7 +317,7 @@ Selected Space & Physics projects:
 
 ## Repositories
 
-* [Astropy](https://github.com/astropy/astropy) ⭐ 5,287 | 🐛 1,430 | 🌐 Python | 📅 2026-08-26 - Repository for the Astropy core package.
+* [Astropy](https://github.com/astropy/astropy) ⭐ 5,287 | 🐛 1,430 | 🌐 Python | 📅 2026-08-27 - Repository for the Astropy core package.
 * [Celestia](https://github.com/CelestiaProject/Celestia) ⭐ 2,351 | 🐛 145 | 🌐 C++ | 📅 2026-08-22 - Real-time 3D visualization of space.
 * [Allsky Camera](https://github.com/thomasjacquin/allsky) ⭐ 1,599 | 🐛 55 | 🌐 JavaScript | 📅 2026-08-25 - A Raspberry Pi operated Wireless Allsky Camera.
 * [Mapping The Solar System](https://github.com/eleanorlutz/asteroids_atlas_of_space) ⭐ 1,308 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-11-12 - Code, data, and instructions for mapping orbits of asteroids in the solar system.
