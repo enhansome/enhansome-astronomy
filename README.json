@@ -16,7 +16,8 @@
             "owner": "mbiesiad",
             "repo": "awesome-astronomy",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "mbiesiad",
             "repo": "awesome-astronomy",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         }
       ],
       "title": "Translations"
@@ -48,11 +50,12 @@
             "archived": false,
             "id": 2081289,
             "language": "Python",
-            "last_commit": "2026-08-27T10:55:46Z",
+            "last_commit": "2026-08-28T09:38:45Z",
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5287
-          }
+            "stars": 5289
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -66,8 +69,9 @@
             "last_commit": "2026-08-22T20:01:38Z",
             "owner": "CelestiaProject",
             "repo": "Celestia",
-            "stars": 2351
-          }
+            "stars": 2353
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "AllskyTeam",
             "repo": "allsky",
             "stars": 1599
-          }
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "eleanorlutz",
             "repo": "asteroids_atlas_of_space",
             "stars": 1308
-          }
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -108,11 +114,12 @@
             "archived": false,
             "id": 38380543,
             "language": "C++",
-            "last_commit": "2026-08-24T13:54:26Z",
+            "last_commit": "2026-08-28T12:09:02Z",
             "owner": "OpenSpace",
             "repo": "OpenSpace",
-            "stars": 1233
-          }
+            "stars": 1234
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -126,8 +133,9 @@
             "last_commit": "2026-07-21T12:01:28Z",
             "owner": "nasa",
             "repo": "apod-api",
-            "stars": 1080
-          }
+            "stars": 1079
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "sunpy",
             "repo": "sunpy",
             "stars": 1033
-          }
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "astropy",
             "repo": "astroquery",
             "stars": 790
-          }
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "jagi",
             "repo": "meteor-astronomy",
             "stars": 604
-          }
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "lightkurve",
             "repo": "lightkurve",
             "stars": 528
-          }
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -202,7 +214,8 @@
             "owner": "dr-guangtou",
             "repo": "taotie",
             "stars": 467
-          }
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "JohnEdChristensen",
             "repo": "WebbCompare",
             "stars": 435
-          }
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -231,8 +245,9 @@
             "last_commit": "2022-12-07T17:32:03Z",
             "owner": "sanderblue",
             "repo": "solar-system-threejs",
-            "stars": 410
-          }
+            "stars": 411
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "rkaczorek",
             "repo": "astroberry-server",
             "stars": 319
-          }
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "saurvs",
             "repo": "astro-rust",
             "stars": 317
-          }
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -273,11 +290,12 @@
             "archived": false,
             "id": 2375854,
             "language": "Python",
-            "last_commit": "2026-08-27T10:36:18Z",
+            "last_commit": "2026-08-28T09:26:26Z",
             "owner": "jobovy",
             "repo": "galpy",
             "stars": 284
-          }
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -288,11 +306,12 @@
             "archived": false,
             "id": 69099717,
             "language": "C",
-            "last_commit": "2026-08-26T14:07:47Z",
+            "last_commit": "2026-08-27T19:59:13Z",
             "owner": "indigo-astronomy",
             "repo": "indigo",
-            "stars": 200
-          }
+            "stars": 201
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "rhnvrm",
             "repo": "galaxy-image-classifier-tensorflow",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "commenthol",
             "repo": "astronomia",
             "stars": 179
-          }
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "Bill-Gray",
             "repo": "find_orb",
             "stars": 120
-          }
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "hpparvi",
             "repo": "PyTransit",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "jobovy",
             "repo": "gaia_tools",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         },
         {
           "node_type": "item",
@@ -382,14 +406,15 @@
             "owner": "langurmonkey",
             "repo": "gaiasky",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
         }
       ],
       "title": "Repositories"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:20:05.250Z",
+    "last_updated": "2026-08-28T12:16:28.819Z",
     "original_repository_info": {
       "archived": false,
       "id": 255427519,
