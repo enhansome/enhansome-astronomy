@@ -81,7 +81,7 @@
             "open_issues": 1425,
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5289,
+            "stars": 5290,
             "topics": [
               "astronomy",
               "astrophysics",
@@ -503,7 +503,7 @@
             "id": 2375854,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-29T04:23:23Z",
+            "last_commit": "2026-08-29T06:47:43Z",
             "open_issues": 11,
             "owner": "jobovy",
             "repo": "galpy",
@@ -711,7 +711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:00:50.447Z",
+    "last_updated": "2026-08-29T07:27:53.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Astronomy stuff. ⭐ Databases, sites, Twitter accounts, projects, NASA, ESA, JAXA, and more 🚀",
