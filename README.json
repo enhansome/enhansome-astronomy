@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about Astronomy stuff. ⭐ Databases, sites, Twitter accounts, projects, NASA, ESA, JAXA, and more 🚀",
+            "homepage": "https://mbiesiad.github.io/awesome-astronomy/",
             "id": 255427519,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-01T16:12:55Z",
+            "open_issues": 3,
             "owner": "mbiesiad",
             "repo": "awesome-astronomy",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "astro",
+              "astronomy",
+              "awesome",
+              "awesome-list",
+              "hacktoberfest",
+              "hacktoberfest2020"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -26,12 +38,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about Astronomy stuff. ⭐ Databases, sites, Twitter accounts, projects, NASA, ESA, JAXA, and more 🚀",
+            "homepage": "https://mbiesiad.github.io/awesome-astronomy/",
             "id": 255427519,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-06-01T16:12:55Z",
+            "open_issues": 3,
             "owner": "mbiesiad",
             "repo": "awesome-astronomy",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "astro",
+              "astronomy",
+              "awesome",
+              "awesome-list",
+              "hacktoberfest",
+              "hacktoberfest2020"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         }
@@ -48,12 +72,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Astronomy and astrophysics core library",
+            "homepage": "https://www.astropy.org",
             "id": 2081289,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T09:38:45Z",
+            "open_issues": 1425,
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5289
+            "stars": 5289,
+            "topics": [
+              "astronomy",
+              "astrophysics",
+              "astropy",
+              "python",
+              "science"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -64,12 +99,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Real-time 3D visualization of space.",
+            "homepage": "https://celestiaproject.space",
             "id": 72038007,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-22T20:01:38Z",
+            "open_issues": 146,
             "owner": "CelestiaProject",
             "repo": "Celestia",
-            "stars": 2353
+            "stars": 2354,
+            "topics": [
+              "astronomy",
+              "celestia",
+              "educational",
+              "free-software",
+              "open-source",
+              "opengl",
+              "opengl-es",
+              "planetarium",
+              "space"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -80,12 +130,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Raspberry Pi operated allsky camera",
+            "homepage": null,
             "id": 71661619,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T21:44:17Z",
+            "open_issues": 55,
             "owner": "AllskyTeam",
             "repo": "allsky",
-            "stars": 1599
+            "stars": 1599,
+            "topics": [
+              "allsky-camera",
+              "astronomy",
+              "open-source",
+              "raspberry-pi"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -96,12 +156,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code, data, and instructions for mapping orbits of asteroids in the solar system",
+            "homepage": "http://tabletopwhale.com/2019/06/10/the-solar-system.html",
             "id": 190697984,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2022-11-12T22:23:46Z",
+            "open_issues": 1,
             "owner": "eleanorlutz",
             "repo": "asteroids_atlas_of_space",
-            "stars": 1308
+            "stars": 1308,
+            "topics": [
+              "astronomy",
+              "cartography",
+              "dataviz",
+              "orbit"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -112,12 +182,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official GitHub repository for OpenSpace: an open source astrovisualization project. For instructions on how to build and run OpenSpace, see the Getting Started Guides on the wiki page at http://docs.openspaceproject.com.",
+            "homepage": "http://openspaceproject.com",
             "id": 38380543,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T12:09:02Z",
+            "open_issues": 687,
             "owner": "OpenSpace",
             "repo": "OpenSpace",
-            "stars": 1234
+            "stars": 1236,
+            "topics": [
+              "astronomy",
+              "data-visualization",
+              "planetarium",
+              "science",
+              "space",
+              "universe",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -128,12 +211,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Astronomy Picture of the Day API service",
+            "homepage": null,
             "id": 47218786,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-21T12:01:28Z",
+            "open_issues": 10,
             "owner": "nasa",
             "repo": "apod-api",
-            "stars": 1079
+            "stars": 1079,
+            "topics": [
+              "apod-api",
+              "apod-image",
+              "apod-parser",
+              "astronomy",
+              "astronomy-photo",
+              "astronomy-picture",
+              "astronomy-picture-of-the-day",
+              "nasa",
+              "nasa-api",
+              "space"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -144,12 +243,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SunPy - Python for Solar Physics",
+            "homepage": "http://www.sunpy.org",
             "id": 2165383,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-27T09:30:26Z",
+            "open_issues": 273,
             "owner": "sunpy",
             "repo": "sunpy",
-            "stars": 1033
+            "stars": 1033,
+            "topics": [
+              "astronomy",
+              "astropy",
+              "hacktoberfest",
+              "python",
+              "solar",
+              "solar-physics",
+              "sun",
+              "sunpy"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -160,12 +273,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Functions and classes to access online data resources. Maintainers: @keflavich and @bsipocz",
+            "homepage": "http://astroquery.readthedocs.org/en/latest/",
             "id": 4787269,
             "language": "Python",
-            "last_commit": "2026-08-25T16:13:39Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T20:27:31Z",
+            "open_issues": 414,
             "owner": "astropy",
             "repo": "astroquery",
-            "stars": 790
+            "stars": 790,
+            "topics": [
+              "astronomy",
+              "astropy",
+              "astropy-affiliated",
+              "closember",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -176,12 +300,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Model layer for Meteor",
+            "homepage": "https://atmospherejs.com/jagi/astronomy",
             "id": 30525892,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-08-24T08:22:39Z",
+            "open_issues": 47,
             "owner": "jagi",
             "repo": "meteor-astronomy",
-            "stars": 604
+            "stars": 604,
+            "topics": [
+              "astronomy",
+              "javascript",
+              "meteor",
+              "model",
+              "mongodb",
+              "mvc",
+              "schema",
+              "validation"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -192,12 +330,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A friendly package for Kepler & TESS time series analysis in Python.",
+            "homepage": "https://lightkurve.github.io/lightkurve/",
             "id": 118387904,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T19:58:28Z",
+            "open_issues": 188,
             "owner": "lightkurve",
             "repo": "lightkurve",
-            "stars": 528
+            "stars": 528,
+            "topics": [
+              "astronomy",
+              "astrophysics",
+              "k2",
+              "kepler",
+              "nasa",
+              "python",
+              "tess",
+              "time-series",
+              "timeseries"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -208,12 +361,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "饕餮：A curated collection of resources for astrophysical research",
+            "homepage": "https://taotie.readthedocs.io/en/latest/",
             "id": 161097018,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-07-27T09:33:09Z",
+            "open_issues": 11,
             "owner": "dr-guangtou",
             "repo": "taotie",
-            "stars": 467
+            "stars": 467,
+            "topics": [
+              "astronomy",
+              "astrophysics",
+              "awesome-list",
+              "how-to",
+              "reference"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -224,12 +388,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compare James Webb Space Telescope images to older images.",
+            "homepage": "https://www.webbcompare.com",
             "id": 512946468,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-03-01T22:17:38Z",
+            "open_issues": 9,
             "owner": "JohnEdChristensen",
             "repo": "WebbCompare",
-            "stars": 435
+            "stars": 435,
+            "topics": [
+              "eduction",
+              "space",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -240,12 +413,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Solar System modeled to scale with Three.js",
+            "homepage": "http://sanderblue.github.io/solar-system-threejs/",
             "id": 15836284,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-07T17:32:03Z",
+            "open_issues": 14,
             "owner": "sanderblue",
             "repo": "solar-system-threejs",
-            "stars": 411
+            "stars": 411,
+            "topics": [
+              "3d",
+              "astrology",
+              "astronomy",
+              "css",
+              "es6",
+              "nasa",
+              "planet",
+              "planets",
+              "threejs",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -256,12 +445,26 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Astroberry Server is a ready to use system for Raspberry Pi for controlling all your astronomy equipment",
+            "homepage": null,
             "id": 90406942,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-02-11T12:01:25Z",
+            "open_issues": 1,
             "owner": "rkaczorek",
             "repo": "astroberry-server",
-            "stars": 319
+            "stars": 319,
+            "topics": [
+              "astronomy",
+              "astronomy-desktop",
+              "astrophotography",
+              "desktop",
+              "indi-driver",
+              "indi-server",
+              "raspberry-pi",
+              "telescope"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -272,12 +475,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Astronomical algorithms in Rust",
+            "homepage": "https://saurvs.github.io/astro-rust/",
             "id": 45698146,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2019-10-20T01:17:04Z",
+            "open_issues": 11,
             "owner": "saurvs",
             "repo": "astro-rust",
-            "stars": 317
+            "stars": 317,
+            "topics": [
+              "astronomy"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -288,12 +498,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Galactic Dynamics in python",
+            "homepage": "https://www.galpy.org",
             "id": 2375854,
             "language": "Python",
-            "last_commit": "2026-08-28T09:26:26Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-29T04:23:23Z",
+            "open_issues": 11,
             "owner": "jobovy",
             "repo": "galpy",
-            "stars": 284
+            "stars": 284,
+            "topics": [
+              "astronomy",
+              "astrophysics",
+              "astropy-affiliated",
+              "dynamics",
+              "physics",
+              "python",
+              "scientific-computing"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -304,12 +527,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "INDIGO is a system of standards and frameworks for multiplatform and distributed astronomy software development designed to scale with your needs.",
+            "homepage": "http://www.indigo-astronomy.org",
             "id": 69099717,
             "language": "C",
-            "last_commit": "2026-08-27T19:59:13Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T19:51:28Z",
+            "open_issues": 76,
             "owner": "indigo-astronomy",
             "repo": "indigo",
-            "stars": 201
+            "stars": 201,
+            "topics": [
+              "astronomy",
+              "astronomy-library",
+              "linux",
+              "macos",
+              "macosx"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -320,12 +554,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Classify whether an image is of a Spiral or an Elliptical Galaxy using Transfer Learning (Tensorflow)",
+            "homepage": null,
             "id": 68384362,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-10-25T19:26:30Z",
+            "open_issues": 4,
             "owner": "rhnvrm",
             "repo": "galaxy-image-classifier-tensorflow",
-            "stars": 185
+            "stars": 185,
+            "topics": [
+              "astronomy",
+              "tensorflow",
+              "transfer-learning"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -336,12 +579,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An astronomical library",
+            "homepage": null,
             "id": 61392080,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-08-30T08:12:39Z",
+            "open_issues": 12,
             "owner": "commenthol",
             "repo": "astronomia",
-            "stars": 179
+            "stars": 179,
+            "topics": [
+              "astronomy",
+              "meeus"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -352,12 +603,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Orbit determination from observations",
+            "homepage": "https://www.projectpluto.com/find_orb.htm",
             "id": 62252859,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-25T01:43:23Z",
+            "open_issues": 26,
             "owner": "Bill-Gray",
             "repo": "find_orb",
-            "stars": 120
+            "stars": 120,
+            "topics": [
+              "astronomy",
+              "orbit-determination"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -368,12 +627,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and easy exoplanet transit light curve modelling.",
+            "homepage": null,
             "id": 6838892,
             "language": "Jupyter Notebook",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-24T16:07:57Z",
+            "open_issues": 6,
             "owner": "hpparvi",
             "repo": "PyTransit",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "astronomy",
+              "astrophysics",
+              "exoplanet",
+              "exoplanets",
+              "light-curve-models",
+              "python",
+              "transit-model",
+              "transiting-exoplanets"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -384,12 +657,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tools for working with the @ESAGaia data and related data sets",
+            "homepage": null,
             "id": 68023376,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-08T16:26:29Z",
+            "open_issues": 1,
             "owner": "jobovy",
             "repo": "gaia_tools",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "astronomy",
+              "astrophysics",
+              "gaia",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         },
@@ -400,12 +683,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mirror fo the Gaia Sky repository at https://codeberg.org/gaiasky/gaiasky",
+            "homepage": "https://gaiasky.space",
             "id": 880187472,
             "language": "Java",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-13T17:42:23Z",
+            "open_issues": 0,
             "owner": "langurmonkey",
             "repo": "gaiasky",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "galaxies",
+              "graphics",
+              "nebulae",
+              "planets",
+              "space",
+              "stars",
+              "universe",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
         }
@@ -414,15 +711,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:16:28.819Z",
+    "last_updated": "2026-08-29T05:00:50.447Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 Awesome lists about Astronomy stuff. ⭐ Databases, sites, Twitter accounts, projects, NASA, ESA, JAXA, and more 🚀",
+      "homepage": "https://mbiesiad.github.io/awesome-astronomy/",
       "id": 255427519,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-06-01T16:12:55Z",
+      "open_issues": 3,
       "owner": "mbiesiad",
       "repo": "awesome-astronomy",
-      "stars": 98
+      "stars": 98,
+      "topics": [
+        "astro",
+        "astronomy",
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "hacktoberfest2020"
+      ]
     },
     "original_repository_sha": "84b7752187aa02f794a078dcb36175befc033369",
     "enhanced_repository": "enhansome/enhansome-astronomy",
