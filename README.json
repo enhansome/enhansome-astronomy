@@ -78,10 +78,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-04T15:16:40Z",
-            "open_issues": 1424,
+            "open_issues": 1431,
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5296,
+            "stars": 5297,
             "topics": [
               "astronomy",
               "astrophysics",
@@ -108,7 +108,7 @@
             "open_issues": 146,
             "owner": "CelestiaProject",
             "repo": "Celestia",
-            "stars": 2357,
+            "stars": 2359,
             "topics": [
               "astronomy",
               "celestia",
@@ -136,10 +136,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-31T20:50:25Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "AllskyTeam",
             "repo": "allsky",
-            "stars": 1603,
+            "stars": 1604,
             "topics": [
               "allsky-camera",
               "astronomy",
@@ -191,7 +191,7 @@
             "open_issues": 738,
             "owner": "OpenSpace",
             "repo": "OpenSpace",
-            "stars": 1245,
+            "stars": 1246,
             "topics": [
               "astronomy",
               "data-visualization",
@@ -503,8 +503,8 @@
             "id": 2375854,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-05T01:18:09Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-06T04:03:56Z",
+            "open_issues": 27,
             "owner": "jobovy",
             "repo": "galpy",
             "stars": 284,
@@ -532,8 +532,8 @@
             "id": 69099717,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T22:34:02Z",
-            "open_issues": 65,
+            "last_commit": "2026-09-05T21:18:10Z",
+            "open_issues": 66,
             "owner": "indigo-astronomy",
             "repo": "indigo",
             "stars": 201,
@@ -692,7 +692,7 @@
             "open_issues": 0,
             "owner": "langurmonkey",
             "repo": "gaiasky",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "galaxies",
               "graphics",
@@ -711,7 +711,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T04:58:15.158Z",
+    "last_updated": "2026-09-06T05:08:43.401Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Astronomy stuff. ⭐ Databases, sites, Twitter accounts, projects, NASA, ESA, JAXA, and more 🚀",
