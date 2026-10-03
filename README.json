@@ -74,7 +74,7 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-10-03T03:58:11Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "AllskyTeam",
             "repo": "allsky",
             "stars": 1632,
@@ -441,7 +441,7 @@
             "id": 2375854,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T03:35:58Z",
+            "last_commit": "2026-10-03T05:27:36Z",
             "open_issues": 22,
             "owner": "jobovy",
             "repo": "galpy",
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:35:34.407Z",
+    "last_updated": "2026-10-03T05:49:28.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Astronomy stuff. ⭐ Databases, sites, Twitter accounts, projects, NASA, ESA, JAXA, and more 🚀",
