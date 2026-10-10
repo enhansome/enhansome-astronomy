@@ -317,13 +317,13 @@ Selected Space & Physics projects:
 
 ## Repositories
 
-* [Astropy](https://github.com/astropy/astropy) ⭐ 5,328 | 🐛 1,413 | 🌐 Python | 📅 2026-10-08 - Repository for the Astropy core package.
-* [Celestia](https://github.com/CelestiaProject/Celestia) ⭐ 2,372 | 🐛 143 | 🌐 C++ | 📅 2026-10-07 - Real-time 3D visualization of space.
-* [Allsky Camera](https://github.com/thomasjacquin/allsky) ⭐ 1,636 | 🐛 53 | 🌐 HTML | 📅 2026-10-08 - A Raspberry Pi operated Wireless Allsky Camera.
+* [Astropy](https://github.com/astropy/astropy) ⭐ 5,329 | 🐛 1,414 | 🌐 Python | 📅 2026-10-09 - Repository for the Astropy core package.
+* [Celestia](https://github.com/CelestiaProject/Celestia) ⭐ 2,373 | 🐛 143 | 🌐 C++ | 📅 2026-10-07 - Real-time 3D visualization of space.
+* [Allsky Camera](https://github.com/thomasjacquin/allsky) ⭐ 1,638 | 🐛 54 | 🌐 HTML | 📅 2026-10-09 - A Raspberry Pi operated Wireless Allsky Camera.
 * [Mapping The Solar System](https://github.com/eleanorlutz/asteroids_atlas_of_space) ⭐ 1,312 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-11-12 - Code, data, and instructions for mapping orbits of asteroids in the solar system.
-* [OpenSpace](https://github.com/OpenSpace/OpenSpace) ⭐ 1,270 | 🐛 752 | 🌐 C++ | 📅 2026-10-09 - An open source astrovisualization project.
+* [OpenSpace](https://github.com/OpenSpace/OpenSpace) ⭐ 1,270 | 🐛 742 | 🌐 C++ | 📅 2026-10-09 - An open source astrovisualization project.
 * [Astronomy Picture of the Day (APOD) microservice](https://github.com/nasa/apod-api) ⭐ 1,091 | 🐛 20 | 🌐 Python | 📅 2026-10-06 - Astronomy Picture of the Day API service.
-* [SunPy](https://github.com/sunpy/sunpy) ⭐ 1,037 | 🐛 301 | 🌐 Python | 📅 2026-10-08 - Python for Solar Physics.
+* [SunPy](https://github.com/sunpy/sunpy) ⭐ 1,037 | 🐛 302 | 🌐 Python | 📅 2026-10-08 - Python for Solar Physics.
 * [Astroquery](https://github.com/astropy/astroquery) ⭐ 796 | 🐛 416 | 🌐 Python | 📅 2026-10-02 - Functions and classes to access online data resources.
 * [Astronomy for Meteor](https://github.com/jagi/meteor-astronomy) ⭐ 602 | 🐛 47 | 🌐 JavaScript | 📅 2023-08-24 - Model layer for Meteor.
 * [Lightkurve](https://github.com/KeplerGO/lightkurve) ⭐ 541 | 🐛 191 | 🌐 Python | 📅 2026-09-16 - A friendly package for Kepler & TESS time series analysis in Python.
@@ -332,14 +332,14 @@ Selected Space & Physics projects:
 * [The Solar System](https://github.com/sanderblue/solar-system-threejs) ⭐ 413 | 🐛 14 | 🌐 JavaScript | 📅 2022-12-07 - The Solar System: Modeled to scale with Three.js.
 * [Astroberry Server](https://github.com/rkaczorek/astroberry-server) ⚠️ Archived - A ready to use system for Raspberry Pi for controlling all your astronomy equipment.
 * [astro-rust](https://github.com/saurvs/astro-rust) ⭐ 313 | 🐛 11 | 🌐 Rust | 📅 2019-10-20 - Astronomical algorithms in Rust.
-* [galpy](https://github.com/jobovy/galpy) ⭐ 284 | 🐛 22 | 🌐 Python | 📅 2026-10-09 - Galactic Dynamics in Python.
-* [INDIGO](https://github.com/indigo-astronomy/indigo) ⭐ 205 | 🐛 36 | 🌐 C | 📅 2026-10-08 - A system of standards and frameworks for multiplatform and distributed astronomy software development designed to scale with your needs.
+* [galpy](https://github.com/jobovy/galpy) ⭐ 284 | 🐛 27 | 🌐 Python | 📅 2026-10-10 - Galactic Dynamics in Python.
+* [INDIGO](https://github.com/indigo-astronomy/indigo) ⭐ 205 | 🐛 36 | 🌐 C | 📅 2026-10-09 - A system of standards and frameworks for multiplatform and distributed astronomy software development designed to scale with your needs.
 * [Tensorflow Elliptical vs Sprial Galaxy Image Classifier](https://github.com/rhnvrm/galaxy-image-classifier-tensorflow) ⚠️ Archived - Classify whether an image is of a Spiral or an Elliptical Galaxy using Transfer Learning (Tensorflow).
 * [astronomia](https://github.com/commenthol/astronomia) ⭐ 181 | 🐛 12 | 🌐 JavaScript | 📅 2025-08-30 - An astronomical library.
 * [find\_orb](https://github.com/Bill-Gray/find_orb) ⭐ 121 | 🐛 26 | 🌐 C++ | 📅 2026-10-02 - Orbit determination from observation.
 * [PyTransit](https://github.com/hpparvi/PyTransit) ⭐ 111 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-10-04 - Fast and easy exoplanet transit light curve modelling.
 * [gaia\_tools](https://github.com/jobovy/gaia_tools) ⚠️ Archived - Tools for working with the ESA Gaia data and related data sets.
-* [Gaia Sky](https://github.com/langurmonkey/gaiasky) ⭐ 13 | 🐛 0 | 🌐 Java | 📅 2026-10-08 - Mirror of Gaia Sky repository hosted on GitLab.
+* [Gaia Sky](https://github.com/langurmonkey/gaiasky) ⭐ 13 | 🐛 0 | 🌐 Java | 📅 2026-10-09 - Mirror of Gaia Sky repository hosted on GitLab.
 * [Supernova Hunters results](https://supernovahunters.github.io/) - Repo about results of Supernova Hunters project.
 * [AAS WorldWide Telescope](https://github.com/WorldWideTelescope) - A tool for showcasing astronomical data and knowledge.
 * [ASCOM Initiative](https://github.com/ASCOMInitiative) - ASCOM repo.
@@ -491,4 +491,4 @@ See [Code of Conduct](CODE-OF-CONDUCT.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
