@@ -317,11 +317,11 @@ Selected Space & Physics projects:
 
 ## Repositories
 
-* [Astropy](https://github.com/astropy/astropy) ⭐ 5,407 | 🐛 1,395 | 🌐 Python | 📅 2026-10-29 - Repository for the Astropy core package.
+* [Astropy](https://github.com/astropy/astropy) ⭐ 5,408 | 🐛 1,397 | 🌐 Python | 📅 2026-10-29 - Repository for the Astropy core package.
 * [Celestia](https://github.com/CelestiaProject/Celestia) ⭐ 2,393 | 🐛 144 | 🌐 C++ | 📅 2026-10-27 - Real-time 3D visualization of space.
-* [Allsky Camera](https://github.com/thomasjacquin/allsky) ⭐ 1,645 | 🐛 56 | 🌐 HTML | 📅 2026-10-30 - A Raspberry Pi operated Wireless Allsky Camera.
+* [Allsky Camera](https://github.com/thomasjacquin/allsky) ⭐ 1,645 | 🐛 55 | 🌐 HTML | 📅 2026-10-30 - A Raspberry Pi operated Wireless Allsky Camera.
 * [Mapping The Solar System](https://github.com/eleanorlutz/asteroids_atlas_of_space) ⭐ 1,314 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2022-11-12 - Code, data, and instructions for mapping orbits of asteroids in the solar system.
-* [OpenSpace](https://github.com/OpenSpace/OpenSpace) ⭐ 1,295 | 🐛 727 | 🌐 C++ | 📅 2026-10-30 - An open source astrovisualization project.
+* [OpenSpace](https://github.com/OpenSpace/OpenSpace) ⭐ 1,296 | 🐛 727 | 🌐 C++ | 📅 2026-10-30 - An open source astrovisualization project.
 * [Astronomy Picture of the Day (APOD) microservice](https://github.com/nasa/apod-api) ⭐ 1,096 | 🐛 22 | 🌐 Python | 📅 2026-10-06 - Astronomy Picture of the Day API service.
 * [SunPy](https://github.com/sunpy/sunpy) ⭐ 1,050 | 🐛 316 | 🌐 Python | 📅 2026-10-28 - Python for Solar Physics.
 * [Astroquery](https://github.com/astropy/astroquery) ⭐ 801 | 🐛 420 | 🌐 Python | 📅 2026-10-26 - Functions and classes to access online data resources.
@@ -491,4 +491,4 @@ See [Code of Conduct](CODE-OF-CONDUCT.md).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

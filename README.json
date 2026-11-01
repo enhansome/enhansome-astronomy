@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-29T16:38:44Z",
-            "open_issues": 1395,
+            "open_issues": 1397,
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5407,
+            "stars": 5408,
             "topics": [
               "astronomy",
               "astrophysics",
@@ -74,7 +74,7 @@
             "language": "HTML",
             "license": "MIT",
             "last_commit": "2026-10-30T13:07:35Z",
-            "open_issues": 56,
+            "open_issues": 55,
             "owner": "AllskyTeam",
             "repo": "allsky",
             "stars": 1645,
@@ -129,7 +129,7 @@
             "open_issues": 727,
             "owner": "OpenSpace",
             "repo": "OpenSpace",
-            "stars": 1295,
+            "stars": 1296,
             "topics": [
               "astronomy",
               "data-visualization",
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T06:21:43.618Z",
+    "last_updated": "2026-11-01T06:53:46.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Astronomy stuff. ⭐ Databases, sites, Twitter accounts, projects, NASA, ESA, JAXA, and more 🚀",
