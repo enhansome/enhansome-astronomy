@@ -15,11 +15,11 @@
             "id": 2081289,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-20T23:49:32Z",
+            "last_commit": "2026-11-21T15:43:37Z",
             "open_issues": 1376,
             "owner": "astropy",
             "repo": "astropy",
-            "stars": 5432,
+            "stars": 5435,
             "topics": [
               "astronomy",
               "astrophysics",
@@ -43,7 +43,7 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-11-21T04:06:30Z",
-            "open_issues": 145,
+            "open_issues": 147,
             "owner": "CelestiaProject",
             "repo": "Celestia",
             "stars": 2413,
@@ -73,8 +73,8 @@
             "id": 71661619,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-11-20T05:36:15Z",
-            "open_issues": 43,
+            "last_commit": "2026-11-22T05:10:05Z",
+            "open_issues": 41,
             "owner": "AllskyTeam",
             "repo": "allsky",
             "stars": 1647,
@@ -83,6 +83,35 @@
               "astronomy",
               "open-source",
               "raspberry-pi"
+            ]
+          },
+          "first_seen": "2026-08-28T12:16:28.819Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSpace",
+          "description": "An open source astrovisualization project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "This is the official GitHub repository for OpenSpace: an open source astrovisualization project. For instructions on how to build and run OpenSpace, see the Getting Started Guides on the wiki page at http://docs.openspaceproject.com.",
+            "homepage": "http://openspaceproject.com",
+            "id": 38380543,
+            "language": "C++",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-20T15:03:50Z",
+            "open_issues": 734,
+            "owner": "OpenSpace",
+            "repo": "OpenSpace",
+            "stars": 1315,
+            "topics": [
+              "astronomy",
+              "data-visualization",
+              "planetarium",
+              "science",
+              "space",
+              "universe",
+              "visualization"
             ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
@@ -109,35 +138,6 @@
               "cartography",
               "dataviz",
               "orbit"
-            ]
-          },
-          "first_seen": "2026-08-28T12:16:28.819Z"
-        },
-        {
-          "node_type": "item",
-          "title": "OpenSpace",
-          "description": "An open source astrovisualization project.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "This is the official GitHub repository for OpenSpace: an open source astrovisualization project. For instructions on how to build and run OpenSpace, see the Getting Started Guides on the wiki page at http://docs.openspaceproject.com.",
-            "homepage": "http://openspaceproject.com",
-            "id": 38380543,
-            "language": "C++",
-            "license": "NOASSERTION",
-            "last_commit": "2026-11-20T15:03:50Z",
-            "open_issues": 733,
-            "owner": "OpenSpace",
-            "repo": "OpenSpace",
-            "stars": 1313,
-            "topics": [
-              "astronomy",
-              "data-visualization",
-              "planetarium",
-              "science",
-              "space",
-              "universe",
-              "visualization"
             ]
           },
           "first_seen": "2026-08-28T12:16:28.819Z"
@@ -220,7 +220,7 @@
             "open_issues": 414,
             "owner": "astropy",
             "repo": "astroquery",
-            "stars": 803,
+            "stars": 804,
             "topics": [
               "astronomy",
               "astropy",
@@ -277,7 +277,7 @@
             "open_issues": 196,
             "owner": "lightkurve",
             "repo": "lightkurve",
-            "stars": 549,
+            "stars": 550,
             "topics": [
               "astronomy",
               "astrophysics",
@@ -441,8 +441,8 @@
             "id": 2375854,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-20T17:54:10Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-21T21:20:55Z",
+            "open_issues": 25,
             "owner": "jobovy",
             "repo": "galpy",
             "stars": 286,
@@ -470,8 +470,8 @@
             "id": 69099717,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-21T00:42:03Z",
-            "open_issues": 40,
+            "last_commit": "2026-11-22T02:02:10Z",
+            "open_issues": 41,
             "owner": "indigo-astronomy",
             "repo": "indigo",
             "stars": 207,
@@ -649,7 +649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T07:45:12.233Z",
+    "last_updated": "2026-11-22T07:31:31.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Awesome lists about Astronomy stuff. ⭐ Databases, sites, Twitter accounts, projects, NASA, ESA, JAXA, and more 🚀",
